@@ -7,7 +7,7 @@
   
   <p>
     Estudar programação e tecnologia é um hábito. Gosto de estar sempre testando novas tecnologias em pequenos projetos para me divertir. <br />
-    Atualmente estou começando um projeto relacionado ao mercado financeiro de ações, criando minha própria API coletando dados através de um Crawler. Mas isso é apenas um começo. Futuramente terei mais detalhes :)
+    Atualmente estou começando um projeto relacionado ao mercado financeiro de ações, criando minha própria API coletando dados através de um Crawler. Mas isso é apenas um começo e só terei mais detalhes futuramente.
   </p>
   
 </div>
