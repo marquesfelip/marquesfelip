@@ -1,8 +1,8 @@
-<h1>Olá! 👋</h1>
+<h1></h1>
 
  <div>
   <p>
-    Tenho 30 anos e estou há 8 trabalhando na área de TI. Sendo 5 anos como analista de suporte ERP e os últimos 3 como Analista de Banco de Dados.
+    
   </p>
 </div>
 
