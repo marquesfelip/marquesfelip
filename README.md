@@ -1,15 +1,15 @@
 <h1></h1>
 
- <div>
+<div>
   <p>
-    
+   
   </p>
 </div>
 
- <div>
+<div>
   <a href="https://github.com/marquesfelip">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marquesfelip&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesfelip&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesfelip&layout=compact&langs_count=6&theme=dark"/>
 </div>
   
 ##
