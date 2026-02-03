@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Felipe (aka Phil)
+# 👋 Hi, I’m Felipe (or Phil)
 
 I’m a software developer with **10+ years of experience** in the tech industry, building solutions across different domains and stacks.
 <div> 
@@ -9,8 +9,8 @@ I’m a software developer with **10+ years of experience** in the tech industry
 
 Over the years, I’ve worked as:
 
-- QA Test Analyst  
-- Technical Support Analyst  
+- QA Test Analyst
+- Technical Support Analyst
 - Microsoft 365 Finance & Operations Developer (**X++**)
 
 This journey gave me a strong foundation in software quality, systems, and real-world problem solving.
