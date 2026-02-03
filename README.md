@@ -1,19 +1,38 @@
-<h1></h1>
+# 👋 Hi, I’m Felipe (aka Phil)
 
-<div>
-  <p>
-   
-  </p>
-</div>
-
-<div>
-  <a href="https://github.com/marquesfelip">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marquesfelip&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesfelip&layout=compact&langs_count=6&theme=dark"/>
-</div>
-  
-##
-  
+I’m a software developer with **10+ years of experience** in the tech industry, building solutions across different domains and stacks.
 <div> 
     <a href="https://www.linkedin.com/in/felipemarquessouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>  
+
+## 💼 Professional Background
+
+Over the years, I’ve worked as:
+
+- QA Test Analyst  
+- Technical Support Analyst  
+- Microsoft 365 Finance & Operations Developer (**X++**)
+
+This journey gave me a strong foundation in software quality, systems, and real-world problem solving.
+
+## 🧰 Tech Stack
+
+| Area      | Technologies |
+|-----------|--------------|
+| Frontend  | ReactJS + Next.js or Vite |
+| Backend   | NestJS + TypeORM, PostgreSQL, Golang + GORM + Gin |
+| Desktop   | Tauri -> ReactJS + Vite and Rust |
+
+
+## 🚀 What I’m up to now
+
+- Working professionally with **Microsoft 365 Finance & Operations**
+- Building side projects with **modern web technologies**
+- Gradually shifting my backend focus to **Golang**
+- Creating **cross-platform desktop apps** with Tauri
+
+## 📌 A bit more about me
+
+I enjoy learning new technologies, refactoring ideas into better architectures, and experimenting with tools that improve developer experience and performance.
+
+Feel free to explore my repositories and reach out!
