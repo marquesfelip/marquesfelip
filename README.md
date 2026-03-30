@@ -11,6 +11,7 @@ Over the years, I’ve worked as:
 
 - QA Test Analyst
 - Technical Support Analyst
+- Python | Angular 17+ | .NET Core 8 | ReactJS | NextJS | NestJS | Go | Rust
 - Microsoft 365 Finance & Operations Developer (**X++**)
 
 This journey gave me a strong foundation in software quality, systems, and real-world problem solving.
@@ -19,9 +20,10 @@ This journey gave me a strong foundation in software quality, systems, and real-
 
 | Area      | Technologies |
 |-----------|--------------|
-| Frontend  | ReactJS + Next.js or Vite |
-| Backend   | NestJS + TypeORM, PostgreSQL, Golang + GORM + Gin |
+| Frontend  | ReactJS + Vite |
+| Backend   | NestJS, Golang |
 | Desktop   | Tauri -> ReactJS + Vite and Rust |
+| Desktop   | Wails -> ReactJS + vite and Go |
 
 
 ## 🚀 What I’m up to now
