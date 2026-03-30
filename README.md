@@ -11,8 +11,8 @@ Over the years, I’ve worked as:
 
 - QA Test Analyst
 - Technical Support Analyst
-- Python | Angular 17+ | .NET Core 8 | ReactJS | NextJS | NestJS | Go | Rust
-- Microsoft 365 Finance & Operations Developer (**X++**)
+- Python | Angular 17+ / ReactJS | .NET Core 8 | NestJS | Go | Rust
+- Microsoft Dynamics 365 Finance & Operations Developer (**X++** lang)
 
 This journey gave me a strong foundation in software quality, systems, and real-world problem solving.
 
