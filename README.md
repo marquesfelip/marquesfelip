@@ -14,7 +14,7 @@ Over the years, I’ve worked as:
 - Python | Angular 17+ / ReactJS | .NET Core 8 | NestJS | Go | Rust
 - Microsoft Dynamics 365 Finance & Operations Developer (**X++** lang)
 
-This journey gave me a strong foundation in software quality, systems, and real-world problem solving.
+This journey gave me a strong foundation in software quality, systems, and real-world problem solving mainly in ERP systems.
 
 ## 🧰 Tech Stack
 
@@ -28,13 +28,11 @@ This journey gave me a strong foundation in software quality, systems, and real-
 
 ## 🚀 What I’m up to now
 
-- Working professionally with **Microsoft 365 Finance & Operations**
-- Building side projects with **modern web technologies**
-- Gradually shifting my backend focus to **Golang**
-- Creating **cross-platform desktop apps** with Tauri
+- Working professionally with **Microsoft Dynamics 365 - Finance & Operations** (X++ lang)
+- Building side projects with **ReactJS + Go + PostgreSQL**
+- Currently, I use **Go** for backend development in all my projects
+- Creating **cross-platform desktop apps** with Wails
 
 ## 📌 A bit more about me
 
 I enjoy learning new technologies, refactoring ideas into better architectures, and experimenting with tools that improve developer experience and performance.
-
-Feel free to explore my repositories and reach out!
